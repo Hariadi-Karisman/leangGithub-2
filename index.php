@@ -8,5 +8,9 @@
 <body>
     <h1>Hariadi Karisman</h1>
     <h2>Universitas islam indoensia</h2>
+    <ul>
+        <li>Frontend Developer</li>
+        <li>Praxis Academy</li>
+    </ul>
 </body>
 </html>
